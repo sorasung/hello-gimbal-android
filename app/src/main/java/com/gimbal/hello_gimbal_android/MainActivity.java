@@ -1,23 +1,3 @@
-# Gimbal Android Basic Sample
-Minimal Gimbal Integration Example on Android. After setting up your application, place(s) and communication(s) on Gimbal Manager the code below will yield **Place Events** and **Local Notifications**.
-
-## Before you create your Android application
-- create your Gimbal account 
-- create an **Application** using package name **com.gimbal.hello_gimbal_android** (generates you API KEY)
-- create at least one **Place** (using a Beacon or Geofence)
-- create at least one **Communicate** (used for the local notification)
-- download the SDK (this sample uses **version 2.9**)
-
-Using the **Gimbal Manager**:
-[https://manager.gimbal.com/](https://manager.gimbal.com/)
-
-## In the sample Android application
-- fill your API KEY into the MainActivity
-- add the jars from the SDK libs directory
-
-Full Gimbal Docs [https://gimbal.com/docs](https://gimbal.com/docs)
-
-```java
 package com.gimbal.hello_gimbal_android;
 
 import android.support.v7.app.ActionBarActivity;
@@ -74,4 +54,3 @@ public class MainActivity extends ActionBarActivity {
     }
 
 }
-```
