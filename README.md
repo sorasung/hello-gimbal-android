@@ -12,7 +12,7 @@ Using the **Gimbal Manager**:
 
 ## In the sample Android application
 - fill your API KEY into the MainActivity
-- add the jars from the SDK libs directory
+- add the jars from the SDK libs directory to the project libs
 
 Full Gimbal Docs [https://gimbal.com/docs](https://gimbal.com/docs)
 
