@@ -11,8 +11,9 @@ Using the **Gimbal Manager**:
 - download the SDK (this sample uses **version 2.9**)
 
 ## In the sample Android application
+- to run this sample in Android Studio choose the 'Import Project' option
 - fill your API KEY into the MainActivity
-- add the jars from the SDK libs directory to the project libs
+- add the jars from the SDK libs directory to the project libs directory
 
 Full Gimbal Docs [https://gimbal.com/docs](https://gimbal.com/docs)
 
