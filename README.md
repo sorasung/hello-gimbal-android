@@ -8,7 +8,7 @@ Using the **Gimbal Manager**:
 - create an **Application** using package name **com.gimbal.hello_gimbal_android** (generates you API KEY)
 - create at least one **Place** (using a Beacon or Geofence)
 - create at least one **Communicate** (used for the local notification)
-- download the SDK (this sample uses **version 2.9**)
+- download the latest V2 SDK
 
 ## In the sample Android application
 - to run this sample in Android Studio choose the 'Import Project' option
